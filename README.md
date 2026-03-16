@@ -1,8 +1,8 @@
-# My Portfolio
+# React + Vite
 
-A React portfolio developed using Vite.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Deployment Instructions (Vercel)
-If you are deploying this project on Vercel:
-1. When importing this new project, make sure to change the **Root Directory** to `react-portfolio`!
-2. Click **Deploy**.
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
